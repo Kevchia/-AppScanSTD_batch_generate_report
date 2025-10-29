@@ -24,5 +24,5 @@ Automation Logic — loops through each .scan, generates both reports, validates
 ```
 
 # Full syntex
-For full Report syntex, please vist HCL Software AppScan Product documentation
+For full Report syntex, please vist HCL Software AppScan Product documentation<br>
 https://help.hcl-software.com/appscan/Standard/10.9.0/r_ReportCommand004.html
