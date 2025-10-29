@@ -3,7 +3,7 @@ This batch automation streamlines HCL AppScan report generation.<br>
 It detects the local folder for “.scan” files, then automatically produces PDF and XML reports using the custom template “all” with minimum severity “informational.”<br>
 Generated files are organized into PDF and XML subfolders, and processed “.scan” files are moved into a Scan archive folder.
 
-#Structure of project
+# Structure of project
 generate_reports.bat — main batch script automating report creation<br>
 Input Folder (root) — contains all raw .scan files<br>
 /PDF/ — stores generated PDF reports<br>
